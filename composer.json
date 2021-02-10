@@ -1,0 +1,6 @@
+{
+  "name": "packaged/polyfill-php74",
+  "license": "MIT",
+  "require": {
+  }
+}
